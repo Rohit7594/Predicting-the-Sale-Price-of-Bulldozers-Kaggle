@@ -1,4 +1,4 @@
-## Predict the Sale Price of Bulldozers (Regression Problem)
+# Predict the Sale Price of Bulldozers (Regression Problem)
 
 The data and evaluation metric to be used is root mean square log error or RMSLE mentioned in [Kaggle Bluebook for Bulldozers competition](https://www.kaggle.com/c/bluebook-for-bulldozers/overview).
 
