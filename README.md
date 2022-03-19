@@ -5,7 +5,7 @@ The data and evaluation metric to be used is root mean square log error or RMSLE
 
 ## 1. Problem Definition
 
-> The goal is to predict the future sale price of a bulldozer based on its characteristics. (Given previous sales price & specification of similar types of bulldozers.)
+The goal is to predict the future sale price of a bulldozer based on its characteristics. (Given previous sales price & specification of similar types of bulldozers.)
 
 ## 2. Data
 
